@@ -12,8 +12,10 @@ profile](https://holopin.me/muhammadnaeemtahir)](https://holopin.io/@muhammadnae
             src="https://github-profile-trophy.vercel.app/?username=muhammadnaeemtahir" alt="muhammadnaeemtahir" /></a>
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5f98c2d-0bec-46e3-8a27-fc3ea044d6f5" data-share-badge-host="https://www.credly.com"></div>
+<body>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5f98c2d-0bec-46e3-8a27-fc3ea044d6f5" data-share-badge-host="https://www.credly.com"></div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</body>
 
 <p align="left"> <a href="https://twitter.com/m_naeemtahir" target="blank"><img
             src="https://img.shields.io/twitter/follow/m_naeemtahir?logo=twitter&style=for-the-badge"
