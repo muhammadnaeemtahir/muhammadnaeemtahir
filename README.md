@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnaeemtahir" alt="muhammadnaeemtahir" /></a> </p>
 
-- 🔭 I’m currently working at [ChainGPT AI](https://www.chaingpt.org/)
+- 🔭 currently working at: [ChainGPT AI](https://www.chaingpt.org/)
 
-- 🌱 I’m currently learning **AI Application Integration**
+- 🌱 Learning: **AI Application Integration**
 
-- 👯 I’m looking to collaborate on **MERN Applications**
+- 👯 Looking to collaborate on: **MERN Applications**
 
-- 👨‍💻 All of my projects are available at [https://muhammadnaeemtahir.github.io/portfolio.html](https://muhammadnaeemtahir.github.io/portfolio.html)
+- 👨‍💻 Portfolio: [https://muhammadnaeemtahir.github.io/portfolio.html](https://muhammadnaeemtahir.github.io/portfolio.html)
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, React, Next.js**
 
-- 📫 Reach me **m.naeemtahir@hotmail.com**
+- 📫 Email: **m.naeemtahir@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
