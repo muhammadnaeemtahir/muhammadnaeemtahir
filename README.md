@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, React, Next.js**
 
-- 📫 How to reach me **m.naeemtahir@hotmail.com**
+- 📫 Reach me **m.naeemtahir@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
