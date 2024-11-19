@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnaeemtahir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnaeemtahir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnaeemtahir" alt="muhammadnaeemtahir" /></a> </p>
-
 - 🔭 Currently working at: [ChainGPT AI](https://www.chaingpt.org/)
 
 - 🌱 Learning: **AI Application Integration**
