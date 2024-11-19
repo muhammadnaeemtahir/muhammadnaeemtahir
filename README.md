@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnaeemtahir" alt="muhammadnaeemtahir" /></a> </p>
 
-- 🔭 currently working at: [ChainGPT AI](https://www.chaingpt.org/)
+- 🔭 Currently working at: [ChainGPT AI](https://www.chaingpt.org/)
 
 - 🌱 Learning: **AI Application Integration**
 
