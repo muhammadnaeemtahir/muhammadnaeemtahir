@@ -5,11 +5,11 @@
 
 - 🔭 Currently working at: [ChainGPT AI](https://www.chaingpt.org/)
 
-- 🌱 Learning: **AI Application Integration**
+- 🌱 Learning: **Blockchain**
 
 - 👯 Looking to collaborate on: **MERN Applications**
 
-- 👨‍💻 Portfolio: [https://muhammadnaeemtahir.github.io/portfolio.html](https://muhammadnaeemtahir.github.io/portfolio.html)
+- 👨‍💻 Portfolio: [https://muhammadnaeemtahir.vercel.app/](https://muhammadnaeemtahir.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, React, Next.js**
 
