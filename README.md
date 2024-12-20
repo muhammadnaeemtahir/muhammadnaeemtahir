@@ -7,7 +7,7 @@
 
 - 🌱 Learning: **Blockchain**
 
-- 👯 Looking to collaborate on: **MERN Applications**
+- 👯 Looking to collaborate on: **Web3 Applications**
 
 - 👨‍💻 Portfolio: [https://muhammadnaeemtahir.vercel.app/](https://muhammadnaeemtahir.vercel.app/)
 
