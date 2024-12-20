@@ -11,7 +11,7 @@
 
 - 👨‍💻 Portfolio: [https://muhammadnaeemtahir.vercel.app/](https://muhammadnaeemtahir.vercel.app/)
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, React, Next.js**
+- 💬 Ask me about **JavaScript, Node.js, Express.js, React, Next.js, Web3.js, Ethers.js, Wagmi**
 
 - 📫 Email: **m.naeemtahir@hotmail.com**
 
