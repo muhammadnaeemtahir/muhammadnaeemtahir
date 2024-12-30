@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naeem Tahir</h1>
-<h3 align="center">Frontend Focused Full Stack Software Engineer</h3>
+<p>
+  I am a frontend-focused full-stack developer with a strong foundation in frontend design and development. I also have experience writing backend applications. My expertise includes both Web 2.0 and Web 3.0 development.
+
+While my primary focus has been on frontend development to date, I have actively expanded my skillset into other areas of web development, including backend, Web 3.0, and blockchain development. In addition to development, I possess skills in requirement gathering, time estimation, storytelling, and strong leadership.
+
+As a hobby, I enjoy teaching. I have volunteered my time to teach frontend development to over 50 students, including my university juniors and a class of 26 frontend fellows at the Bytewise Fellowship.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnaeemtahir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnaeemtahir" /> </p>
 
