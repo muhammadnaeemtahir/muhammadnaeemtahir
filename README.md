@@ -5,7 +5,7 @@
 
 - 🔭 Currently working at: [ChainGPT AI](https://www.chaingpt.org/)
 
-- 🌱 Learning: **Blockchain**
+- 🌱 Learning: **Web3, Blockchain**
 
 - 👯 Looking to collaborate on: **Web3 Applications**
 
