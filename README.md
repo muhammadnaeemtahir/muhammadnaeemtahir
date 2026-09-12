@@ -4,4 +4,4 @@ I am currently pursuing masters in Software Engineering at [Northeastern Univers
 Research Interests: AI Security, Preemptive Security
 
 ## Contact
-LinkedIn: [https://www.linkedin.com/in/compolymath/](https://www.linkedin.com/in/compolymath/)
+LinkedIn: [https://www.linkedin.com/in/muhammadnaeemtahir/](https://www.linkedin.com/in/muhammadnaeemtahir/)
