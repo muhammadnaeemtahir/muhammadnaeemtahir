@@ -7,3 +7,5 @@ Research Interests: AI Security, Preemptive Cybersecurity, LLM Security
 
 ### Contact
 LinkedIn: [https://www.linkedin.com/in/muhammadnaeemtahir/](https://www.linkedin.com/in/muhammadnaeemtahir/)
+
+Email: m.naeemtahir (at) hotmail.com
